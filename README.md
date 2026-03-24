@@ -141,20 +141,3 @@ python manage.py runserver
 Screenshot pdf file is there in this folder SWEET_SHOP_MANAGEMENT_SYSTEM
 
 ---
-
-## My AI Usage
-
-I used AI tools responsibly to speed up development and brainstorming:
-
-* **ChatGPT**
-
-  * Helped me draft API endpoint structures and refine my README.
-  * Assisted in writing descriptions for sweet categories and product listings.
-  * Suggested Django settings fixes (e.g., SMTP setup, paginator color styling).
-
-### Reflection
-
-AI helped me save time on boilerplate code, documentation, and debugging.
-However, all core business logic, customization, and design decisions were **done by me manually** to ensure I understood the implementation.
-
----
