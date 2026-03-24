@@ -1,7 +1,11 @@
-Sweet Nest – Sweet Shop Management System
+# Sweet Nest – Sweet Shop Management System
 
 Sweet Nest is a full-stack Sweet Shop Management System built using Python, Django and SQLite3.
 The project follows Test-Driven Development (TDD) principles and demonstrates API development, secure user authentication, inventory management, and a modern frontend for managing sweets.
+
+---
+## Live Demo
+https://madhavi.pythonanywhere.com/
 
 ---
 
