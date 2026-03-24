@@ -6,7 +6,7 @@ The project follows Test-Driven Development (TDD) principles and demonstrates AP
 ---
 ## Live Site
 
-> Deployed via Netlify — https://madhavi.pythonanywhere.com/
+> Deployed via PythonAnywhere — https://madhavi.pythonanywhere.com/
 
 ---
 
