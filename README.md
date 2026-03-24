@@ -4,8 +4,9 @@ Sweet Nest is a full-stack Sweet Shop Management System built using Python, Djan
 The project follows Test-Driven Development (TDD) principles and demonstrates API development, secure user authentication, inventory management, and a modern frontend for managing sweets.
 
 ---
-## Live Demo
-https://madhavi.pythonanywhere.com/
+## Live Site
+
+> Deployed via Netlify — https://madhavi.pythonanywhere.com/
 
 ---
 
